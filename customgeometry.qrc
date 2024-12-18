@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/scenegraph/customgeometry">
+        <file>Main.qml</file>
+    </qresource>
+</RCC>
