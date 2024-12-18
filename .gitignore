@@ -1,0 +1,97 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+.directory
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+*.rc
+/.qmake.cache
+/.qmake.stash
+
+# qtcreator generated files
+*.pro.user*
+CMakeLists.txt.user
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+venv
+env
+
+# Binaries
+# --------
+*.dll
+*.exe
+
+# Creator build directories
+build-*
+*.zip
+
+# symlinks to clangd generated build symbols
+# only used for Vim:YouCompleteMe
+compile_commands.json
+.cache
+
+# python virtual environments
+# used for Sphinx
+.venv
+
+# Sphinx generated build directories
+*/docs/build
+
+# ignore Design Studio user project
+*.qmlproject.qtds
+
+# ignore the scratch directory
+scratch
